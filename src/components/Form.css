@@ -1,0 +1,13 @@
+.new_form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-self: center;
+    border: 1px solid;
+    width: 30%;
+    height: 30%;
+}
+
+.align{
+    text-align: -webkit-center;
+}
